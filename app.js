@@ -53,8 +53,8 @@ function setRandomColors(isInitial) {
         ? colors[ index ]
         : chroma.random()
       : chroma.random()
-    
-    
+
+
     if (!isInitial) {
       colors.push(color)
     }
