@@ -5,9 +5,6 @@
   <a href="https://github.com/oskaldev/random-colors#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-<!--   <a href="https://twitter.com/oskaldev" target="_blank">
-    <img alt="Twitter: oskaldev" src="https://img.shields.io/twitter/follow/oskaldev.svg?style=social" />
-  </a> -->
 </p>
 
 **random-colors** - страница выводящаая случайные цвета при нажатии пробела 
