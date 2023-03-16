@@ -1,13 +1,13 @@
-# random-colors
 <h1 align="center">Welcome 👋</h1>
+<h2 align="center">random-colors</h2>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/oskaldev/random-colors#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://twitter.com/oskaldev" target="_blank">
+<!--   <a href="https://twitter.com/oskaldev" target="_blank">
     <img alt="Twitter: oskaldev" src="https://img.shields.io/twitter/follow/oskaldev.svg?style=social" />
-  </a>
+  </a> -->
 </p>
 
 **random-colors** - страница выводящаая случайные цвета при нажатии пробела 
