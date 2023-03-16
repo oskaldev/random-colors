@@ -31,7 +31,6 @@ git clone https://github.com/oskaldev/random-colors.git
 
 👤 **oskaldev**
 
-* Twitter: [@oskaldev](https://twitter.com/oskaldev)
 * Github: [@oskaldev](https://github.com/oskaldev)
 * LinkedIn: [@oskaldev](https://linkedin.com/in/oskaldev)
 * Telegram: [@oskaldev](https://t.me/oskaldev)
